@@ -12,7 +12,7 @@ A console-based hospital management system built using Python and MySQL as a par
 - Python
 - MySQL
 - `mysql-connector-python`
-
+         
 ## How to Run
 1. Clone or download the repository.
 2. Create a MySQL database and update the connection details in the Python file.

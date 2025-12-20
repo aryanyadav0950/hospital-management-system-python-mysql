@@ -7,7 +7,7 @@ A console-based hospital management system built using Python and MySQL as a par
 - Manage room allocation  
 - Handle billing and discharge
 - Search patients by ID or name
-    
+     
 ## Tech Stack          
 - Python  
 - MySQL    

@@ -8,7 +8,7 @@ A console-based hospital management system built using Python and MySQL as a par
 - Handle billing and discharge
 - Search patients by ID or name
    
-## Tech Stack         
+## Tech Stack          
 - Python  
 - MySQL    
 - `mysql-connector-python`

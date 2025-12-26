@@ -1,7 +1,7 @@
 # Hospital Management System (Python + MySQL)
 
 A console-based hospital management system built using Python and MySQL as a part of my Class 12 project.    
- 
+  
 ## Features
 - Add, update, delete patient records  
 - Manage room allocation  

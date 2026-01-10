@@ -9,7 +9,7 @@ A console-based hospital management system built using Python and MySQL as a par
 - Search patients by ID or name 
      
 ## Tech Stack          
-- Python  
+- Python    
 - MySQL    
 - `mysql-connector-python`
          
